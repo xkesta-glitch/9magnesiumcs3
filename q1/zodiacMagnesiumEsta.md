@@ -1,4 +1,9 @@
 # Chinese Zodiac
+
+**Name:** Xian Kyle Esta
+**Section:** Magnesium    
+**Date:** August 19, 2026
+
 ## Requirements
 - Ask the user to enter a year of birth.  The baseline year 1900.
 - Validate user input that it should not be earlier than 1900.
