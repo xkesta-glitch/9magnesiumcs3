@@ -10,6 +10,6 @@
 ### Computational Thinking Skills
 - (q1/ctskillsMagnesiumEsta.md)
 ### Chinese Zodiac
-- (q1/zodiacMagnesium.md) 
+- q1/zodiacMagnesiumEsta.md
 ### OOP Concept
-- [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
+- (q1/ila_oop.md)
