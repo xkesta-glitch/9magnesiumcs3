@@ -8,8 +8,8 @@
 
 # Activities 
 ### Computational Thinking Skills
-- (q1/ctskillsMagnesiumEsta.md)
+- 
 ### Chinese Zodiac
-- q1/zodiacMagnesiumEsta.md
+- 
 ### OOP Concept
-- (q1/ila_oop.md)
+- 
