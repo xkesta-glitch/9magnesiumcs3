@@ -10,6 +10,6 @@
 ### Computational Thinking Skills
 - https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/ctskillsMagnesiumEsta.md
 ### Chinese Zodiac
-- 
+- https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/zodiacMagnesiumEsta.md
 ### OOP Concept
 - 
