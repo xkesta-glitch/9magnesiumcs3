@@ -15,7 +15,7 @@
 | pause() | Stops the music |
 | fast_forward(seconds) | Skips ahead in time |
 ## Class Diagram
-![Class Diagram](<img width="1545" height="1999" alt="P-pop" src="https://github.com/user-attachments/assets/ff42ae08-dcd3-47b1-aa8c-fec4e68b282f" />)
+<img width="1545" height="1999" alt="P-pop" src="https://github.com/user-attachments/assets/ff42ae08-dcd3-47b1-aa8c-fec4e68b282f" />
 
 ## Design Explanation
 ### Why did you choose this class?
