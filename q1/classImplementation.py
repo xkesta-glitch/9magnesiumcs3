@@ -14,6 +14,22 @@ class Ppop:
     def get_duration(self) -> int:
         return self.__private_duration
     def set_duration(self, duration: int) -> None:
-        if duration < 0:
-            
+        if duration.strip():
+            self.__private_duration = duration
+            print(f"Duration set to {duration} seconds for {self.name} by {self.author}")
+        else:
+            print("Invalid duration. Please provide a valid duration.")
+
+if __name__ == "__main__":
+    song = Ppop("Lifetime", "Ben&Ben", "", 277, "06-04-2020")
+    song.play()
+    print(song.pause())
+    print(song.fast_forward(30))
+    print(f"Duration: {song.get_duration()} seconds")
+    song.set_duration("200")
+    print(f"Updated Duration: {song.get_duration()} seconds")
+
+    print("--- AFTER ---")
+    print(f"Object 1: {song.name}, {song.author}, {song.get_duration()} seconds, {song._Ppop__private_release_date}")
+
     
