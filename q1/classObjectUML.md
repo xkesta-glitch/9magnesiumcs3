@@ -16,7 +16,8 @@
 | fast_forward(seconds) | Skips ahead in time |
 ## Class Diagram
 <img width="1545" height="1999" alt="P-pop" src="https://github.com/user-attachments/assets/ff42ae08-dcd3-47b1-aa8c-fec4e68b282f" />
-
+## Revised Class Diagram
+<img width="1545" height="1999" alt="P-pop 2" src="https://github.com/user-attachments/assets/0adc91d4-7c60-45d6-bb78-645f908bdb27" />
 ## Design Explanation
 ### Why did you choose this class?
 #### I chose this class because I am very fond of P-pop music and Im also proud of the creativity of our fellow Filipinos.
