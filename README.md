@@ -7,5 +7,7 @@
 # Quarter 1
 
 # Activities 
-### Computational Thinking Skills
-View my Computational Thinking Exercise (q1/ctskillsMagnesiumCapillano.md)
+### [Computational Thinking Skills](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/ctskillsMagnesiumEsta.md)
+### [Chinese Zodiac](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/zodiacMagnesiumEsta.md)
+### [OOP Concept](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/ila_oop.md)
+### [OOPAct](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/classObjectUML.md)
