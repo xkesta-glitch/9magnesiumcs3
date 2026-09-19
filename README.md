@@ -12,3 +12,4 @@
 ### [OOP Concept](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/ila_oop.md)
 ### [OOPAct](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/classObjectUML.md)
 ### [OOPActII](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/classAttributesMethods.md)
+### [OOPACtIII](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/classRelationships.md)
