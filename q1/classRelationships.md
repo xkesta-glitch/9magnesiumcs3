@@ -21,7 +21,8 @@ Explanation: Album contains different p-pop songs
 Multiplicity: '1' to '0..*'
 Explanation: One Album can have zero or more P-pop songs
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](<img width="1545" height="1999" alt="P-pop" src="https://github.com/user-attachments/assets/8c0ba1ad-db45-4ad9-9937-54a290f0aa54" />
+)
 ## Python Implementation
 [View Python Source](classRelationships.py)
 ## Test Run
