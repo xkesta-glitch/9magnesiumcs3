@@ -11,14 +11,15 @@ Class: Album
 Description: All P-pop music compiled
 ## Association
 Relationship: Album HAS P-pop songs
-Explanation: Albums contaims different p-pop songs
+Explanation: Album contains different p-pop songs
 ## Multiplicity
 | UML | Meaning |
 |---|---|
-| * | Many |
+| 1 | Exactly one |
+| 0..* | Zero or more
 
-Multiplicity: Many 
-Explanation: Many P-pops can be contained in one album
+Multiplicity: '1' to '0..*'
+Explanation: One Album can have zero or more P-pop songs
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
 ## Python Implementation
