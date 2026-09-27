@@ -25,7 +25,7 @@ Explanation: One Album can have zero or more P-pop songs
 ## Python Implementation
 [View Python Source](classRelationships.py)
 ## Test Run
-![Relationship Test Run](images/relationshipTestRun.png)
+![Relationship Test Run](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/Screenshot%202026-09-28%20001010.png)
 ## Object Relationship Diagram
 ![Object Relationship Diagram](images/objectRelationshipDiagram.png)
 ## Analysis
