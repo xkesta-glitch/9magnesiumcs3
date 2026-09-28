@@ -17,7 +17,7 @@ Relationship: Aggregation, HAS-A
 
 Explanation: Album contains P-pop songs and P-pop groups.
 ## Advanced UML Diagram
-![Advanced UML](images/advancedClassDiagram.png)
+![Advanced UML](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/advanceRelationshipsClassDiagram.png)
 ## Python Implementation
 [Source Code](advancedRelationships.py)
 ## Test Run
