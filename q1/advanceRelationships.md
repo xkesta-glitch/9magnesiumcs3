@@ -19,7 +19,7 @@ Explanation: Album contains P-pop songs and P-pop groups.
 ## Advanced UML Diagram
 ![Advanced UML](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/advanceRelationshipsClassDiagram.png)
 ## Python Implementation
-[Source Code](advancedRelationships.py)
+[Source Code](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/advanceRelationships.py)
 ## Test Run
 ![Test](images/advancedTestRun.png)
 ## Object Diagram
