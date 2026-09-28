@@ -1,6 +1,6 @@
 #Advanced Class Relationships
 ## Previous Activities
-[classAttrib](classAttributesMethods.md)
+[classAttrib](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/classAttributesMethods.md)
 [classRel](classRelationships.md)
 ## Existing System Description:
 ## Inheritance Relationship
