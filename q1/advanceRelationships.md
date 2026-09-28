@@ -21,7 +21,7 @@ Explanation: Album contains P-pop songs and P-pop groups.
 ## Python Implementation
 [Source Code](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/advanceRelationships.py)
 ## Test Run
-![Test](images/advancedTestRun.png)
+![Test](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/Screenshot%202026-09-29%20002257.png)
 ## Object Diagram
 ![Objects](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/advanceRelationshipsObjectDiagram.png) 
 ## Reflection
