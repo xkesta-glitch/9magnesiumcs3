@@ -23,5 +23,19 @@ Explanation: Album contains P-pop songs and P-pop groups.
 ## Test Run
 ![Test](images/advancedTestRun.png)
 ## Object Diagram
-![Objects](images/advancedObjectDiagram.png) ## Reflection
-Answers:
+![Objects](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/advanceRelationshipsObjectDiagram.png) 
+## Reflection
+Answers: 
+1. Why did you choose your inheritance relationship? Explain why your child class is a type of your
+parent class.
+- I chose P-pop groups as an inheritance relationship because they have the same basic properties. 
+2. How did inheritance reduce duplicate code? Identify attributes or methods that were reused.
+- It reused all the other properties from the P-pop songs.
+3. Why is your HAS-A relationship Composition or Aggregation? Explain the lifecycle relationship
+between the two objects.
+- Its Aggregation because they do not depent on the album.
+4. What is the difference between Association from Part III and the advanced relationship you
+implemented?
+- Part III only showed how two classes interact, while advanced relationship provided more detail and information.
+5. How does your design follow the DRY principle?
+- It reuses and keeps the old attributes so I won't need to rewrite the code.
