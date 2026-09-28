@@ -13,8 +13,9 @@ Explanation: They inherit the properties and adds groups.
 ## Inheritance UML
 ![Inheritance](images/inheritanceDiagram.png)
 ## Composition/Aggregation
-Relationship:
-Explanation:
+Relationship: Aggregation, HAS-A
+
+Explanation: Album contains P-pop songs and P-pop groups.
 ## Advanced UML Diagram
 ![Advanced UML](images/advancedClassDiagram.png)
 ## Python Implementation
