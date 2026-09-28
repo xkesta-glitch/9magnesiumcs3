@@ -11,7 +11,7 @@ Child: P-pop groups
 
 Explanation: They inherit the properties and adds groups.
 ## Inheritance UML
-![Inheritance](images/inheritanceDiagram.png)
+![Inheritance](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/inheritance.png)
 ## Composition/Aggregation
 Relationship: Aggregation, HAS-A
 
