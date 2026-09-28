@@ -27,10 +27,15 @@ Explanation: One Album can have zero or more P-pop songs
 ## Test Run
 ![Relationship Test Run](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/Screenshot%202026-09-28%20001010.png)
 ## Object Relationship Diagram
-![Object Relationship Diagram](images/objectRelationshipDiagram.png)
+![Object Relationship Diagram](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/Album.png)
 ## Analysis
 ### What is the association between your two classes?
+- Their association is stores HAS-A relationship, the Album stores P-pop songs. The albums allows for easy access to the songs. 
 ### What multiplicity did you choose and why?
+- 1 to 0..* because the album can store 0 or more songs. The album can have no songs and have many songs added to it later.
 ### How did you implement the relationship in Python?
+- I turn the album into an empty list.
 ### Why did you store an object reference instead of copying its data?
+- It prevents data duplication.
 ### If your relationship uses many, why is a list appropriate?
+- It is appropriate because it adjusts the album if songs are added or removed.
