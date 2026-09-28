@@ -1,6 +1,6 @@
 # OOPACT-PartII
 class Ppop:
-    def __init__(self, name: str, age: str, author: str, __private_duration: int, __private_release_date: str):
+    def __init__(self, name: str, author: str, __private_duration: int, __private_release_date: str):
         self.name = name
         self.author = author
         self.__private_duration = __private_duration
