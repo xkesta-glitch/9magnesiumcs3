@@ -14,3 +14,8 @@
 ### [OOPActII](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/classAttributesMethods.md)
 ### [OOPActIII](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/classRelationships.md)
 ### [OOPActIV](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q1/advanceRelationships.md)
+
+# Quarter 2
+
+# Activities
+### [Study Guide 8 - Encasulation](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q2/sg8_encapsulation.py)
