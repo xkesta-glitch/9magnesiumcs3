@@ -21,3 +21,4 @@
 ### [Study Guide 8 - Encasulation](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q2/sg8_encapsulation.py)
 ### [Study Guide 9 - Inheritance](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q2/sg9_inheritance.py)
 ### [Study Guide 10 - Method Overriding](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q2/sg10_methodoverriding.py)
+### [Study Guide 11 - Polymorphism](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q2/sg11_polymorphism.py)
