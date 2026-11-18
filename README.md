@@ -23,3 +23,4 @@
 ### [Study Guide 10 - Method Overriding](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q2/sg10_methodoverriding.py)
 ### [Study Guide 11 - Polymorphism - Activity 1](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q2/sg11_polymorphism.py)
 ### [Study Guide 11 - Polymorphism - Activity 2 - Questions](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q2/sg11_polymorphism%20-%20activity%202%20-%20questions.md)
+### [Study Guide 11 - Polymorphism - Activity 2 - Code](https://github.com/xkesta-glitch/9magnesiumcs3/blob/main/q2/sg11_polymorphism%20-%20activity%202%20-%20code.py)
